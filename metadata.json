@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "Professional developer portfolio website featuring a modern interactive dark layout, skills progress, experience timeline, and project showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
