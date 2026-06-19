@@ -1,4 +1,6 @@
-<div align="center">  
+<div align="center">
+  <img src="https://pbs.twimg.com/profile_images/2067986380609990656/nX2G5_sQ_400x400.jpg" width="120" height="120" style="border-radius: 50%; border: 3px solid #a855f7; box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);" alt="Divya Prakash Mishra" />
+  
   # 🚀 Divya Prakash Mishra
   ### **Full-Stack Developer & Software Engineer**
   
